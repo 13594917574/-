@@ -604,46 +604,48 @@
         "type": "21",
         "is_dynamic": "0",
         "type_name": "自定义Title模板",
-        "value": {
-          "title_height": "80",
-          "top_line": {
-            "isline": 0,
-            "line_color": "",
-            "padding": "",
-            "line_image": {}
-          },
-          "bottom_line": {
-            "isline": 1,
-            "line_color": "#e7e7e7",
-            "padding": "10",
-            "line_image": {}
-          },
-          "left": {
-            "type": "image",
-            "text": {},
-            "img": {
-              "image": "https://img2.epetbar.com/nowater/2017-12/13/16/70adf3f7cc4cbe58a7dc4865c4b4f932.jpg",
-              "img_size": "285x110",
-              "target": {
-                "mode": "web",
-                "param": "https://wap.epet.com/v2/brandsale.html?pet_type=cat&fw=0"
+        "value": [
+          {
+            "title_height": "80",
+            "top_line": {
+              "isline": 0,
+              "line_color": "",
+              "padding": "",
+              "line_image": {}
+            },
+            "bottom_line": {
+              "isline": 1,
+              "line_color": "#e7e7e7",
+              "padding": "10",
+              "line_image": {}
+            },
+            "left": {
+              "type": "image",
+              "text": {},
+              "img": {
+                "image": "https://img2.epetbar.com/nowater/2017-12/13/16/70adf3f7cc4cbe58a7dc4865c4b4f932.jpg",
+                "img_size": "285x110",
+                "target": {
+                  "mode": "web",
+                  "param": "https://wap.epet.com/v2/brandsale.html?pet_type=cat&fw=0"
+                }
               }
-            }
-          },
-          "center": {},
-          "right": {
-            "type": "image",
-            "text": {},
-            "img": {
-              "image": "https://img2.epetbar.com/nowater/2017-12/13/17/e9aea7ada15165227f1bfb15ba530875.jpg",
-              "img_size": "120x110",
-              "target": {
-                "mode": "web",
-                "param": "https://wap.epet.com/v2/brandsale.html?pet_type=cat&fw=0"
+            },
+            "center": {},
+            "right": {
+              "type": "image",
+              "text": {},
+              "img": {
+                "image": "https://img2.epetbar.com/nowater/2017-12/13/17/e9aea7ada15165227f1bfb15ba530875.jpg",
+                "img_size": "120x110",
+                "target": {
+                  "mode": "web",
+                  "param": "https://wap.epet.com/v2/brandsale.html?pet_type=cat&fw=0"
+                }
               }
             }
           }
-        }
+        ]
       },
       {
         "index": "2963",
